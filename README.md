@@ -17,22 +17,6 @@ Versão pública e estática do **ControlPay**, preparada para demonstração e 
 - Navegação sem backend
 - Compatível com GitHub Pages
 
-## 🧹 O que foi removido
-
-A versão pública não contém:
-
-- `.env`
-- credenciais ou secrets
-- LDAP
-- banco de dados
-- scripts SQL
-- backend PHP
-- endpoints REST
-- configurações internas
-- dados reais
-- logos e imagens institucionais específicas
-- dependências do servidor original
-
 ## 🚀 GitHub Pages
 
 O projeto é composto somente por HTML, CSS, JavaScript e assets estáticos. Basta publicar a raiz do projeto pelo GitHub Pages.
